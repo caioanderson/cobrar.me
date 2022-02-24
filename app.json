@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cobrarme",
+    "slug": "cobrarme",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cobrarme"
+}
