@@ -5,7 +5,7 @@ interface WelcomeProps{
     text: string;
 }
 
-export function Welcome({ text }: WelcomeProps) {
+export function Welcome({ text } : WelcomeProps) {
     return (
         <View style={styles.container}>
             <Text>{text}</Text>
