@@ -20,7 +20,7 @@ export default {
 
     fonts: {
         regular_component: 'Poppins_400Regular', // para inputs, buttons e selects
-
+        semi_bold: 'Lexend_600SemiBold',
         bold: 'Lexend_700Bold', // para o logo e titles
         regular: 'Lexend_400Regular', //para textos com menos peso
         light: 'Lexend_300Light', //para valores numericos de menos peso em card
